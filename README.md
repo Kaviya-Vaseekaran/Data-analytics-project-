@@ -1,2 +1,26 @@
-project 1 - Coffee Shop Sales Analysis — Power BI Dashboard Analyzed coffee shop transaction data to identify sales trends across products, store locations and time periods. Built interactive dashboard with KPIs including Total Sales, Average Order Value, Total Orders and MOM Sales %. Tools used: Power BI, DAX
-Project 2 — Pizza Shop Sales Analysis (Power BI) 3-page interactive dashboard analyzing pizza shop performance across sales, products and orders.Page 1 — Sales Analysis: Total sales of ₹8.17L, 50K quantity, MOM growth tracking, sales by category, month and time period.Page 2 — Product Analysis: Top 10 pizzas, best selling pizza (Thai Chicken), best selling day (Friday), sales by pizza size.Page 3 — Order Analysis: 21K total orders, peak ordering hour analysis, orders by category and time period.Tools used: Power BI, DAX
+
+# Data Analytics Projects - Kaviya Vaseekaran
+
+## Project 1 — Coffee Shop Sales Analysis (Power BI)
+
+Analyzed coffee shop transaction data to identify sales trends across products, store locations and time periods.
+
+Built interactive dashboard with KPIs:
+- Total Sales: 6.61L
+- Average Order Value: 4.69
+- Total Orders: 149K
+- MOM Sales %: 31.3%
+
+Tools used: Power BI, DAX
+
+---
+
+## Project 2 — Pizza Shop Sales Analysis (Power BI)
+
+3-page interactive dashboard analyzing pizza shop performance across sales, products and orders.
+
+- Page 1: Total sales ₹8.17L, MOM growth tracking, sales by category and time period
+- Page 2: Top 10 pizzas, best seller Thai Chicken, sales by pizza size
+- Page 3: 21K total orders, peak ordering hour, orders by category
+
+Tools used: Power BI
