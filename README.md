@@ -33,8 +33,7 @@ Tools used: Power BI, DAX
 ---
 
 Project 3 — Telecom Customer Analysis (Excel)
-![Telecom Customer Analysis](Screenshot 2026-06-08 103324.png)
-
+![Telecom Dashboard](Screenshot%202026-06-08%20103324.png)
 Interactive Excel dashboard analyzing telecom customer behavior, churn patterns, and service usage across regions.
 
 -Total Customers: 49, Avg. Tenure: 19 months, Avg. Age: 35
