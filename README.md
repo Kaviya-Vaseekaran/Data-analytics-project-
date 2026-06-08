@@ -94,7 +94,9 @@ Window functions practice on an employees dataset with 1,000 records covering sa
 - Running total of salary by department using SUM OVER
 
 Tools used: PostgreSQL
-[View SQL File](retail_sales_analysis.sql)
+
+[View SQL File](employees_window_functions.sql)
+
 ## Project 7 — Coming Soon
 
 Currently working on next project. Stay tuned!!!
