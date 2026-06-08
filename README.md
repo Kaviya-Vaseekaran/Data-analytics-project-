@@ -47,14 +47,14 @@ Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 [Download Dashboard](telcom%20DASH%20BOARD.xlsx)
 
 Project 4 — HR Analytics Dashboard (Excel)
-Show Image
+![HR Analytics Dashboard](Screenshot%202026-06-08%20103817.png)
 Interactive Excel dashboard analyzing employee attrition, salary, and workforce demographics for 1,470 employees.
 
-Employee Count: 1,470, Attrition Count: 45, Avg. Salary Hike: 15.44%, Avg. Age: 32
-Attrition breakdown filtered by gender, overtime, and attrition status
-Job role distribution — Research Scientist 27%, Sales Executive 22%
-Department split — Sales 49%, R&D 44%, HR 7%
-Salary hike and age group analysis across workforce
+- Employee Count: 1,470, Attrition Count: 45, Avg. Salary Hike: 15.44%, Avg. Age: 32
+- Attrition breakdown filtered by gender, overtime, and attrition status
+- Job role distribution — Research Scientist 27%, Sales Executive 22%
+- Department split — Sales 49%, R&D 44%, HR 7%
+- Salary hike and age group analysis across workforce
 
 Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
