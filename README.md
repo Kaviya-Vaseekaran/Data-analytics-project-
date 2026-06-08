@@ -44,6 +44,8 @@ Interactive Excel dashboard analyzing telecom customer behavior, churn patterns,
 
 Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
+[Download Dashboard](telcom%20DASH%20BOARD.xlsx)
+
 ## Project 5 — Coming Soon
 
 Currently working on next project. Stay tuned!
