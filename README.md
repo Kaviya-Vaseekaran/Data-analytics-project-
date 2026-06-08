@@ -14,7 +14,7 @@ Key KPIs:
 
 Tools used: Power BI, DAX
 
-[Download Dashboard](coffee shop dashboard.pbix)
+[Download Dashboard](coffee%20shop%20dashboard.pbix)
 ---
 
 ## Project 2 — Pizza Shop Sales Analysis (Power BI)
