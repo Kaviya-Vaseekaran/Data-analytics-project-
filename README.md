@@ -82,7 +82,20 @@ Tools used: PostgreSQL
 
 [View SQL File](retail_sales_analysis.sql)
 
-## Project 6 — Coming Soon
+## Project 6 — Employees Analysis (Window Functions) (SQL)
+
+Window functions practice on an employees dataset with 1,000 records covering salary, department, gender, and regional data.
+
+- ROW_NUMBER, RANK, DENSE_RANK to rank employees by salary
+- PARTITION BY to analyze within each department
+- LAG and LEAD to compare salaries across hire dates
+- NTILE to divide employees into salary buckets
+- FIRST_VALUE and LAST_VALUE to find highest and lowest salary per department
+- Running total of salary by department using SUM OVER
+
+Tools used: PostgreSQL
+[View SQL File](retail_sales_analysis.sql)
+## Project 7 — Coming Soon
 
 Currently working on next project. Stay tuned!!!
 
