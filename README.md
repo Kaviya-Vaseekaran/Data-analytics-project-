@@ -68,7 +68,20 @@ Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
 [Download Dashboard](EXCEL%20PROJECT%20ONE.xlsx)
 
-## Project 5 — Coming Soon
+## Project 5 — Retail Sales Analysis (SQL)
+
+30-question SQL analysis on a retail sales dataset covering orders, customers, products, returns, and regional performance.
+
+- Joins across 6 tables — sales, customers, products, regions, subcategories, returns
+- Order analysis by region, category, product, and time period
+- Customer segmentation by gender, marital status, and income
+- Return analysis by product, category, and region
+- Created a consolidated view combining all tables for efficient querying
+
+Tools used: PostgreSQL
+View SQL File
+
+## Project 6 — Coming Soon
 
 Currently working on next project. Stay tuned!!!
 
