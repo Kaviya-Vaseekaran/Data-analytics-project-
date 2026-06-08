@@ -119,6 +119,6 @@ Tools used: Power BI, DAX
 
 ## Project 8 — Coming Soon
 
-Currently working on next project. Stay tuned!!!
+Currently working on next project. Stay tuned!
 
 
