@@ -13,6 +13,7 @@ Key KPIs:
 - MOM Sales %: 31.3%
 
 Tools used: Power BI, DAX
+
 [Download Dashboard](coffee%20shop%20dashboard.pbix)
 
 
