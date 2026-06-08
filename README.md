@@ -114,7 +114,8 @@ Tools used: PostgreSQL
 - Page 5 — Region Analysis: Total sales ₹24.91M across 10 regions, profit margin and return quantity by region, customer distribution map
 
 Tools used: Power BI, DAX
-Download Dashboard
+
+[Download Dashboard](SALES%20PROJECT%20PB.pbix)
 
 ## Project 8 — Coming Soon
 
