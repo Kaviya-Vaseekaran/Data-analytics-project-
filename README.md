@@ -79,7 +79,8 @@ Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 - Created a consolidated view combining all tables for efficient querying
 
 Tools used: PostgreSQL
-View SQL File
+
+[View SQL File](retail_sales_analysis.sql)
 
 ## Project 6 — Coming Soon
 
