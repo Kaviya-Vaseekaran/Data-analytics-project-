@@ -38,7 +38,8 @@ Tools used: Power BI, DAX
 
 ---
 
-Project 3 — Telecom Customer Analysis (Excel)
+## Project 3 — Telecom Customer Analysis (Excel)
+
 ![Telecom Dashboard](Screenshot%202026-06-08%20103324.png)
 Interactive Excel dashboard analyzing telecom customer behavior, churn patterns, and service usage across regions.
 
@@ -52,7 +53,8 @@ Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
 [Download Dashboard](telcom%20DASH%20BOARD.xlsx)
 
-Project 4 — HR Analytics Dashboard (Excel)
+## Project 4 — HR Analytics Dashboard (Excel)
+
 ![HR Analytics Dashboard](Screenshot%202026-06-08%20103817.png)
 Interactive Excel dashboard analyzing employee attrition, salary, and workforce demographics for 1,470 employees.
 
