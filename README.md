@@ -101,6 +101,12 @@ Tools used: PostgreSQL
 
 5-page interactive Power BI dashboard analyzing sales, products, customers, returns, and regional performance across 6 countries and 3 continents.
 
+![Sales Performance](Screenshot%202026-06-08%20160629.png)
+![Product Performance](Screenshot%202026-06-08%20160643.png)
+![Customer Analysis](Screenshot%202026-06-08%20160717.png)
+![Return Analysis](Screenshot%202026-06-08%20160733.png)
+![Region Analysis](Screenshot%202026-06-08%20160807.png)
+
 Page 1 — Sales Performance: Total sales ₹24.91M, profit ₹10.58M, 42% profit margin, 166% YOY growth, sales vs target, CY vs PY comparison
 Page 2 — Product Performance: 293 products, avg product price ₹714, profit margin by subcategory, total sales by month and category
 Page 3 — Customer Analysis: 18K customers, sales by occupation, education level, marital status, and region
