@@ -36,11 +36,11 @@ Project 3 — Telecom Customer Analysis (Excel)
 ![Telecom Dashboard](Screenshot%202026-06-08%20103324.png)
 Interactive Excel dashboard analyzing telecom customer behavior, churn patterns, and service usage across regions.
 
--Total Customers: 49, Avg. Tenure: 19 months, Avg. Age: 35
--Churn analysis filtered by gender, region, and service type
--Tenure and age distribution across customer segments
--Internet usage: 65% subscribed, Call card usage: 53% active
--Customer category breakdown — Basic, E-service, Plus, and Total service
+- Total Customers: 49, Avg. Tenure: 19 months, Avg. Age: 35
+- Churn analysis filtered by gender, region, and service type
+- Tenure and age distribution across customer segments
+- Internet usage: 65% subscribed, Call card usage: 53% active
+- Customer category breakdown — Basic, E-service, Plus, and Total service
 
 Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
