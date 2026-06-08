@@ -107,11 +107,11 @@ Tools used: PostgreSQL
 ![Return Analysis](Screenshot%202026-06-08%20160733.png)
 ![Region Analysis](Screenshot%202026-06-08%20160807.png)
 
-Page 1 — Sales Performance: Total sales ₹24.91M, profit ₹10.58M, 42% profit margin, 166% YOY growth, sales vs target, CY vs PY comparison
-Page 2 — Product Performance: 293 products, avg product price ₹714, profit margin by subcategory, total sales by month and category
-Page 3 — Customer Analysis: 18K customers, sales by occupation, education level, marital status, and region
-Page 4 — Return Analysis: 863 returns, 1.03% return rate, 9.80% MOM return %, return quantity by region and month
-Page 5 — Region Analysis: Total sales ₹24.91M across 10 regions, profit margin and return quantity by region, customer distribution map
+- Page 1 — Sales Performance: Total sales ₹24.91M, profit ₹10.58M, 42% profit margin, 166% YOY growth, sales vs target, CY vs PY comparison
+- Page 2 — Product Performance: 293 products, avg product price ₹714, profit margin by subcategory, total sales by month and category
+- Page 3 — Customer Analysis: 18K customers, sales by occupation, education level, marital status, and region
+- Page 4 — Return Analysis: 863 returns, 1.03% return rate, 9.80% MOM return %, return quantity by region and month
+- Page 5 — Region Analysis: Total sales ₹24.91M across 10 regions, profit margin and return quantity by region, customer distribution map
 
 Tools used: Power BI, DAX
 Download Dashboard
