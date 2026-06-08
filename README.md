@@ -32,6 +32,9 @@ Tools used: Power BI, DAX
 
 Tools used: Power BI, DAX
 
+[Download Dashboard](pizza%20analysis%20dashboard.pbix)
+
+
 ---
 
 Project 3 — Telecom Customer Analysis (Excel)
