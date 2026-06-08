@@ -82,7 +82,7 @@ Tools used: PostgreSQL
 
 [View SQL File](retail_sales_analysis.sql)
 
-## Project 6 — Employees Analysis (Window Functions) (SQL)
+## Project 6 — Employees Analysis (SQL)
 
 Window functions practice on an employees dataset with 1,000 records covering salary, department, gender, and regional data.
 
@@ -97,7 +97,20 @@ Tools used: PostgreSQL
 
 [View SQL File](employees_window_functions.sql)
 
-## Project 7 — Coming Soon
+## Project 7 — Sales Performance Analysis (Power BI)
+
+5-page interactive Power BI dashboard analyzing sales, products, customers, returns, and regional performance across 6 countries and 3 continents.
+
+Page 1 — Sales Performance: Total sales ₹24.91M, profit ₹10.58M, 42% profit margin, 166% YOY growth, sales vs target, CY vs PY comparison
+Page 2 — Product Performance: 293 products, avg product price ₹714, profit margin by subcategory, total sales by month and category
+Page 3 — Customer Analysis: 18K customers, sales by occupation, education level, marital status, and region
+Page 4 — Return Analysis: 863 returns, 1.03% return rate, 9.80% MOM return %, return quantity by region and month
+Page 5 — Region Analysis: Total sales ₹24.91M across 10 regions, profit margin and return quantity by region, customer distribution map
+
+Tools used: Power BI, DAX
+Download Dashboard
+
+## Project 8 — Coming Soon
 
 Currently working on next project. Stay tuned!!!
 
