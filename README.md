@@ -58,6 +58,8 @@ Interactive Excel dashboard analyzing employee attrition, salary, and workforce 
 
 Tools used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers
 
+[Download Dashboard](EXCEL%20PROJECT%20ONE.xlsx)
+
 ## Project 5 — Coming Soon
 
 Currently working on next project. Stay tuned!
