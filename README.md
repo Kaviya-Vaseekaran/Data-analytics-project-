@@ -123,6 +123,9 @@ Python analysis on coffee shop transaction data to identify revenue trends by pr
 ![Revenue by Category](Screenshot%202026-06-09%20123551.png)
 ![Revenue by Location](Screenshot%202026-06-09%20123609.png)
 
+Chart 1: Revenue by product category — Coffee is the top performing category
+Chart 2: Revenue by store location — comparison across all store branches
+
 - Loaded and explored transaction data using Pandas
 - Created a revenue column by multiplying quantity and unit price
 - Analyzed revenue by product category, store location, and top 5 products
