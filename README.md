@@ -119,8 +119,9 @@ Tools used: Power BI, DAX
 
 ## Project 8 — Coffee Shop Sales Analysis (Python)
 Python analysis on coffee shop transaction data to identify revenue trends by product category and store location.
-Show Image
-Show Image
+
+![Revenue by Category](Screenshot%202026-06-09%20123551.png)
+![Revenue by Location](Screenshot%202026-06-09%20123609.png)
 
 - Loaded and explored transaction data using Pandas
 - Created a revenue column by multiplying quantity and unit price
